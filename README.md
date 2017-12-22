@@ -2,7 +2,7 @@
 Ticket Booking Information System Booking with c ++ language and using sqlite database
 
 The task to meet the courses of Algorithm and Programming.
-      *--------SEMARANG STATE UNIVERSITY--------*
+     *--------SEMARANG STATE UNIVERSITY--------*
      ----- Technical Information ; semester 1-----
 
 A brief explanation of the information system program we are working on using C ++ and SQLite.
